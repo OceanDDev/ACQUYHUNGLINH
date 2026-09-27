@@ -2,33 +2,16 @@ import { useState, useMemo } from "react";
 import { Link } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
 import { Search, Filter, PhoneCall, X } from "lucide-react";
-
-// Tất cả dữ liệu bên dưới là tĩnh — viết sẵn trong component,
-// không gọi productService / categoryService nào cả.
+// Dữ liệu sản phẩm/danh mục là tĩnh, nằm trong file JSON — không gọi
+// productService / categoryService nào cả. Đặt products.json tại
+// src/data/products.json (sửa lại đường dẫn import bên dưới nếu bạn
+// để nó ở chỗ khác so với vị trí của Product.jsx).
+import productsData from "../data/products.json";
 
 const PHONE_TEL = "0985327910";
 const PER_PAGE = 9;
 
-const categories = [
-  { id: "oto", name: "Ắc quy ô tô" },
-  { id: "xetai", name: "Ắc quy xe tải & công nghiệp" },
-  { id: "xemay", name: "Ắc quy xe máy & xe điện" },
-];
-
-const products = [
-  { id: 1, slug: "gs-ns40zl", name: "GS NS40ZL", category: "oto", brand: "GS", voltage: "12V", capacity: "35Ah", image: "/img/pic4.jpg" },
-  { id: 2, slug: "gs-ns60", name: "GS NS60", category: "oto", brand: "GS", voltage: "12V", capacity: "45Ah", image: "/img/pic5.jpg" },
-  { id: 3, slug: "dongnai-din55", name: "Đồng Nai DIN55", category: "oto", brand: "Đồng Nai", voltage: "12V", capacity: "55Ah", image: "/img/pic6.jpg" },
-  { id: 4, slug: "gs-n70", name: "GS N70", category: "oto", brand: "GS", voltage: "12V", capacity: "70Ah", image: "/img/pic7.jpg" },
-  { id: 5, slug: "gs-n100", name: "GS N100", category: "xetai", brand: "GS", voltage: "12V", capacity: "100Ah", image: "/img/pic8.jpg" },
-  { id: 6, slug: "gs-n150", name: "GS N150", category: "xetai", brand: "GS", voltage: "12V", capacity: "150Ah", image: "/img/pic9.jpg" },
-  { id: 7, slug: "dongnai-n200", name: "Đồng Nai N200", category: "xetai", brand: "Đồng Nai", voltage: "12V", capacity: "200Ah", image: "/img/pic4.jpg" },
-  { id: 8, slug: "gs-24v-n120", name: "GS 24V N120", category: "xetai", brand: "GS", voltage: "24V", capacity: "120Ah", image: "/img/pic5.jpg" },
-  { id: 9, slug: "gs-gtz5s", name: "GS GTZ5S", category: "xemay", brand: "GS", voltage: "12V", capacity: "4Ah", image: "/img/pic6.jpg" },
-  { id: 10, slug: "gs-gtz6v", name: "GS GTZ6V", category: "xemay", brand: "GS", voltage: "12V", capacity: "5Ah", image: "/img/pic7.jpg" },
-  { id: 11, slug: "dongnai-gtz7s", name: "Đồng Nai GTZ7S", category: "xemay", brand: "Đồng Nai", voltage: "12V", capacity: "6Ah", image: "/img/pic8.jpg" },
-  { id: 12, slug: "gs-xe-dien-12ah", name: "GS Xe điện 12Ah", category: "xemay", brand: "GS", voltage: "12V", capacity: "12Ah", image: "/img/pic9.jpg" },
-];
+const { categories, products } = productsData;
 
 const Sticker = ({ children }) => (
   <span className="inline-block bg-[#F5B400] text-[#14120D] text-sm font-bold px-3 py-1 -rotate-2 shadow-[3px_3px_0_#14120D]">
@@ -200,7 +183,7 @@ const Product = () => {
                         <img
                           src={item.image}
                           alt={item.name}
-                          className="h-full w-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-500"
+                          className="h-full w-full object-cover group-hover:scale-105 transition-transform duration-500"
                         />
                         <span className="absolute top-2 left-2 bg-[#F5B400] text-[#14120D] px-2 py-0.5 text-[10px] font-bold">
                           {item.brand}

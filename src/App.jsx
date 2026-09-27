@@ -3,6 +3,10 @@ import Home from "./page/Home";
 import Footer from "./page/Footer";
 import Header from "./page/Header";
 import Product from "./page/Product";
+import ProductDetail from "./page/Deltail";
+import Contacts from "./page/Contact";
+import News from "./page/News";
+import NewsDetail from "./page/NewDetail";
 
 function App() {
   return (
@@ -13,6 +17,10 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/product" element={<Product />} />
+          <Route path="/chi-tiet-san-pham/:slug" element={<ProductDetail />} />
+                    <Route path="/contacts" element={<Contacts />} />
+                    <Route path="/tin-tuc" element={<News />} />
+                    <Route path="/tin-tuc/:slug" element={<NewsDetail />} />
 
           {/* Thêm route khi bạn tạo trang mới, ví dụ:
           <Route path="/san-pham" element={<Product />} />

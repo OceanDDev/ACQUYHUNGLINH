@@ -1,13 +1,13 @@
 import { Link } from "react-router-dom";
 import { PhoneCall } from "lucide-react";
 
-const PHONE_DISPLAY = "0909 000 111";
-const PHONE_TEL = "0909000111";
+const PHONE_DISPLAY = "0985 327 910";
+const PHONE_TEL = "0985 327 910";
 
 const navLinks = [
   { to: "/", label: "Trang chủ" },
   { to: "/product", label: "Sản phẩm" },
-  { to: "/about", label: "Giới thiệu" },
+  { to: "/tin-tuc", label: "Tin tức" },
   { to: "/contacts", label: "Liên hệ" },
 ];
 

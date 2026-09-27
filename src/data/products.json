@@ -1,0 +1,1192 @@
+{
+  "categories": [
+    {
+      "id": "n-ns",
+      "name": "Ắc quy nước N & NS (ô tô, xe tải)"
+    },
+    {
+      "id": "mf",
+      "name": "Ắc quy kín khí (MF)"
+    },
+    {
+      "id": "din",
+      "name": "Ắc quy DIN (xe châu Âu, Hàn Quốc)"
+    },
+    {
+      "id": "nho",
+      "name": "Ắc quy N nhỏ (xe máy, mini)"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "slug": "ns40",
+      "name": "NS40",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/NS40.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "ns40zls",
+      "name": "NS40ZL(S)",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/NS40ZL(S).jpg"
+    },
+    {
+      "id": 3,
+      "slug": "ns60l",
+      "name": "NS60L",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/NS60L.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "gs-ns60",
+      "name": "GS NS60",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS NS60.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "gs-ns60l",
+      "name": "GS NS60L",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS NS60L.webp"
+    },
+    {
+      "id": 6,
+      "slug": "gs-ns60ls",
+      "name": "GS NS60L(S)",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS NS60L(S).webp"
+    },
+    {
+      "id": 7,
+      "slug": "n50",
+      "name": "N50",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N50.jpg"
+    },
+    {
+      "id": 8,
+      "slug": "gs-n50",
+      "name": "GS N50",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS N50.png"
+    },
+    {
+      "id": 9,
+      "slug": "gs-n50l",
+      "name": "GS N50L",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS N50L.webp"
+    },
+    {
+      "id": 10,
+      "slug": "n50zl",
+      "name": "N50ZL",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N50ZL.jpg"
+    },
+    {
+      "id": 11,
+      "slug": "gs-55d23l",
+      "name": "GS 55D23L",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 55D23L.webp"
+    },
+    {
+      "id": 12,
+      "slug": "ns70",
+      "name": "NS70",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/NS70.jpg"
+    },
+    {
+      "id": 13,
+      "slug": "gs-ns70",
+      "name": "GS NS70",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS NS70.webp"
+    },
+    {
+      "id": 14,
+      "slug": "gs-ns70l",
+      "name": "GS NS70L",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS NS70L.png"
+    },
+    {
+      "id": 15,
+      "slug": "n70",
+      "name": "N70",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N70.jpg"
+    },
+    {
+      "id": 16,
+      "slug": "gs-n70",
+      "name": "GS N70",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS N70.png"
+    },
+    {
+      "id": 17,
+      "slug": "n70z",
+      "name": "N75/N70Z",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N75N70Z.jpg"
+    },
+    {
+      "id": 18,
+      "slug": "n85",
+      "name": "N85",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N85.jpg"
+    },
+    {
+      "id": 19,
+      "slug": "gs-100d31r",
+      "name": "GS 100D31R",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 100D31R.webp"
+    },
+    {
+      "id": 20,
+      "slug": "n90",
+      "name": "N90",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N90.jpg"
+    },
+    {
+      "id": 21,
+      "slug": "nx120-7",
+      "name": "NX120-7",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/NX120-7.jpg"
+    },
+    {
+      "id": 22,
+      "slug": "n100",
+      "name": "N100",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N100.jpg"
+    },
+    {
+      "id": 23,
+      "slug": "gs-n100",
+      "name": "GS N100",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS N100.png"
+    },
+    {
+      "id": 24,
+      "slug": "n100z",
+      "name": "N100Z",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N100Z.png"
+    },
+    {
+      "id": 25,
+      "slug": "n110",
+      "name": "N110",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N110.jpg"
+    },
+    {
+      "id": 26,
+      "slug": "n120",
+      "name": "N120",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N120.jpg"
+    },
+    {
+      "id": 27,
+      "slug": "gs-n120",
+      "name": "GS N120",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS N120.webp"
+    },
+    {
+      "id": 28,
+      "slug": "n135",
+      "name": "N135",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N135.jpg"
+    },
+    {
+      "id": 29,
+      "slug": "n150s",
+      "name": "N150S",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N150S.jpg"
+    },
+    {
+      "id": 30,
+      "slug": "n150",
+      "name": "N150",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N150.jpg"
+    },
+    {
+      "id": 31,
+      "slug": "gs-n150",
+      "name": "GS N150",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS N150.webp"
+    },
+    {
+      "id": 32,
+      "slug": "n150z",
+      "name": "N150Z",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N150Z.jpg"
+    },
+    {
+      "id": 33,
+      "slug": "n170",
+      "name": "N170",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N170.jpg"
+    },
+    {
+      "id": 34,
+      "slug": "n180",
+      "name": "N180",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N180.jpg"
+    },
+    {
+      "id": 35,
+      "slug": "n200s",
+      "name": "N200S",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N200S.jpg"
+    },
+    {
+      "id": 36,
+      "slug": "n200",
+      "name": "N200",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N200.png"
+    },
+    {
+      "id": 37,
+      "slug": "gs-n200",
+      "name": "GS N200",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS N200.jpg"
+    },
+    {
+      "id": 38,
+      "slug": "n200z",
+      "name": "N200Z",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N200Z.jpg"
+    },
+    {
+      "id": 39,
+      "slug": "n220",
+      "name": "N220",
+      "category": "n-ns",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N220.jpg"
+    },
+    {
+      "id": 40,
+      "slug": "gs-n220",
+      "name": "GS N220",
+      "category": "n-ns",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS N220.webp"
+    },
+    {
+      "id": 41,
+      "slug": "ac-quy-cmf-40b20hl",
+      "name": "CMF 40B20HL",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 40B20HL.jpg"
+    },
+    {
+      "id": 42,
+      "slug": "ac-quy-cmf-40b20hr",
+      "name": "CMF 40B20HR",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 40B20HR.webp"
+    },
+    {
+      "id": 43,
+      "slug": "ac-quy-cmf-44b20hl",
+      "name": "CMF 44B20HL",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 44B20HL.jpg"
+    },
+    {
+      "id": 44,
+      "slug": "ac-quy-cmf-44b20hr",
+      "name": "CMF 44B20HR",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 44B20HR.jpg"
+    },
+    {
+      "id": 45,
+      "slug": "ac-quy-cmf-50b24l",
+      "name": "CMF 50B24L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 50B24L.jpg"
+    },
+    {
+      "id": 46,
+      "slug": "ac-quy-cmf-50b24r",
+      "name": "CMF 50B24R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 50B24R.jpg"
+    },
+    {
+      "id": 47,
+      "slug": "ac-quy-cmf-50d26l",
+      "name": "CMF 50D26L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 50D26L.jpg"
+    },
+    {
+      "id": 48,
+      "slug": "ac-quy-cmf-50d26r",
+      "name": "CMF 50D26R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 50D26R.webp"
+    },
+    {
+      "id": 49,
+      "slug": "ac-quy-cmf-55b24l",
+      "name": "CMF 55B24L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 55B24L.jpg"
+    },
+    {
+      "id": 50,
+      "slug": "ac-quy-cmf-55b24r",
+      "name": "CMF 55B24R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 55B24R.jpg"
+    },
+    {
+      "id": 51,
+      "slug": "ac-quy-cmf-55d23hl",
+      "name": "CMF 55D23HL",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 55D23HL.jpg"
+    },
+    {
+      "id": 52,
+      "slug": "ac-quy-cmf-55d23hr",
+      "name": "CMF 55D23R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 55D23R.jpg"
+    },
+    {
+      "id": 53,
+      "slug": "ac-quy-cmf-55d26l",
+      "name": "CMF 55D26L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 55D26L.jpg"
+    },
+    {
+      "id": 54,
+      "slug": "ac-quy-cmf-55d26r",
+      "name": "CMF 55D26R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 55D26R.jpg"
+    },
+    {
+      "id": 55,
+      "slug": "ac-quy-cmf-85d23hl",
+      "name": "CMF 85D23HL",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 85D23HL.jpg"
+    },
+    {
+      "id": 56,
+      "slug": "ac-quy-cmf-85d23hr",
+      "name": "CMF 85D23HR",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 85D23HR.jpg"
+    },
+    {
+      "id": 57,
+      "slug": "ac-quy-cmf-75d26l",
+      "name": "CMF 75D26L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 75D26L.png"
+    },
+    {
+      "id": 58,
+      "slug": "ac-quy-cmf-75d26r",
+      "name": "CMF 75D26R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 75D26R.jpg"
+    },
+    {
+      "id": 59,
+      "slug": "ac-quy-cmf-80d26l",
+      "name": "CMF 80D26L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 80D26L.jpg"
+    },
+    {
+      "id": 60,
+      "slug": "ac-quy-cmf-80d26r",
+      "name": "CMF 80D26R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 80D26R.jpg"
+    },
+    {
+      "id": 61,
+      "slug": "ac-quy-cmf-75d31l",
+      "name": "CMF 75D31L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 75D31L.jpg"
+    },
+    {
+      "id": 62,
+      "slug": "ac-quy-cmf-75d31r",
+      "name": "CMF 75D31R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 75D31R.webp"
+    },
+    {
+      "id": 63,
+      "slug": "ac-quy-cmf-95d31l",
+      "name": "CMF 95D31L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 95D31L.jpg"
+    },
+    {
+      "id": 64,
+      "slug": "ac-quy-cmf-95d31r",
+      "name": "CMF 95D31R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 95D31R.jpg"
+    },
+    {
+      "id": 65,
+      "slug": "ac-quy-cmf-105d31l",
+      "name": "CMF 105D31L",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 105D31L.jpg"
+    },
+    {
+      "id": 66,
+      "slug": "ac-quy-cmf-105d31r",
+      "name": "CMF 105D31R",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 105D31R.jpg"
+    },
+    {
+      "id": 67,
+      "slug": "ac-quy-cmf-31800",
+      "name": "CMF 31800",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 31800.jpg"
+    },
+    {
+      "id": 68,
+      "slug": "ac-quy-cmf-31s800",
+      "name": "CMF 31S800",
+      "category": "mf",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF 31S800.jpg"
+    },
+    {
+      "id": 69,
+      "slug": "ac-quy-gs-40b19l-mf",
+      "name": "GS 40B19L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 40B19L-MF.png"
+    },
+    {
+      "id": 70,
+      "slug": "ac-quy-gs-40b19r-mf",
+      "name": "GS 40B19R-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 40B19R-MF.png"
+    },
+    {
+      "id": 71,
+      "slug": "ac-quy-gs-40b19ls-mf",
+      "name": "GS 40B19L(S)-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 40B19L(S)-MF.webp"
+    },
+    {
+      "id": 72,
+      "slug": "ac-quy-gs-44b19l-mf",
+      "name": "GS 44B19L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 44B19L-MF.webp"
+    },
+    {
+      "id": 73,
+      "slug": "ac-quy-gs-46b24l-mf",
+      "name": "GS 46B24L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 46B24L-MF.webp"
+    },
+    {
+      "id": 74,
+      "slug": "ac-quy-gs-46b24r-mf",
+      "name": "GS 46B24R-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 46B24R-MF.webp"
+    },
+    {
+      "id": 75,
+      "slug": "ac-quy-gs-46b24ls-mf",
+      "name": "GS 46B24L(S)-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 46B24L(S)-MF.jpg"
+    },
+    {
+      "id": 76,
+      "slug": "ac-quy-gs-55d23l-mf",
+      "name": "GS 55D23L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 55D23L-MF.webp"
+    },
+    {
+      "id": 77,
+      "slug": "ac-quy-gs-55d23r-mf",
+      "name": "GS 55D23R-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 55D23R-MF.webp"
+    },
+    {
+      "id": 78,
+      "slug": "ac-quy-gs-75d23l-mf",
+      "name": "GS 75D23L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 75D23L-MF.webp"
+    },
+    {
+      "id": 79,
+      "slug": "ac-quy-gs-75d23r-mf",
+      "name": "GS 75D23R-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 75D23R-MF.webp"
+    },
+    {
+      "id": 80,
+      "slug": "ac-quy-gs-80d26l-mf",
+      "name": "GS 80D26L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 80D26L-MF.jpg"
+    },
+    {
+      "id": 81,
+      "slug": "ac-quy-gs-80d26r-mf",
+      "name": "GS 80D26R-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 80D26R-MF.webp"
+    },
+    {
+      "id": 82,
+      "slug": "ac-quy-gs-85d26l-mf",
+      "name": "GS 85D26L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 85D26L-MF.jpg"
+    },
+    {
+      "id": 83,
+      "slug": "ac-quy-gs-85d26r-mf",
+      "name": "GS 85D26R-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 85D26R-MF.webp"
+    },
+    {
+      "id": 84,
+      "slug": "ac-quy-gs-95d31l-mf",
+      "name": "GS 95D31L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 95D31L-MF.jpg"
+    },
+    {
+      "id": 85,
+      "slug": "ac-quy-gs-95d31r-mf",
+      "name": "GS 95D31R-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 95D31R-MF.jpg"
+    },
+    {
+      "id": 86,
+      "slug": "ac-quy-gs-105d31l-mf",
+      "name": "GS 105D31L-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 105D31L-MF.webp"
+    },
+    {
+      "id": 87,
+      "slug": "ac-quy-gs-105d31r-mf",
+      "name": "GS 105D31R-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 105D31R-MF.jpg"
+    },
+    {
+      "id": 88,
+      "slug": "ac-quy-gs-115d33v-mf",
+      "name": "GS 115D33V-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 115D33V-MF.webp"
+    },
+    {
+      "id": 89,
+      "slug": "ac-quy-gs-115d33c-mf",
+      "name": "GS 115D33C-MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS 115D33C-MF.webp"
+    },
+    {
+      "id": 90,
+      "slug": "ac-quy-gs-q85-mf",
+      "name": "GS Q85 MF",
+      "category": "mf",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS Q85 MF.webp"
+    },
+    {
+      "id": 91,
+      "slug": "ac-quy-cmf-din43",
+      "name": "CMF DIN43",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN43.jpg"
+    },
+    {
+      "id": 92,
+      "slug": "ac-quy-cmf-din45-lbn",
+      "name": "CMF DIN45-LBN",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN45-LBN.png"
+    },
+    {
+      "id": 93,
+      "slug": "ac-quy-cmf-din52-lbn",
+      "name": "CMF DIN52-LBN",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/DIN52-LBN.jpg"
+    },
+    {
+      "id": 94,
+      "slug": "ac-quy-cmf-din60-lbn",
+      "name": "CMF DIN60-LBN",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/DIN60-LBN.jpg"
+    },
+    {
+      "id": 95,
+      "slug": "ac-quy-cmf-din60",
+      "name": "CMF DIN60",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN60.png"
+    },
+    {
+      "id": 96,
+      "slug": "ac-quy-cmf-din60-th",
+      "name": "CMF DIN60-TH",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN60-TH.webp"
+    },
+    {
+      "id": 97,
+      "slug": "ac-quy-cmf-din65-lbn",
+      "name": "CMF DIN65-LBN",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/DIN65-LBN.jpg"
+    },
+    {
+      "id": 98,
+      "slug": "ac-quy-cmf-din66",
+      "name": "CMF DIN66",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN66.jpg"
+    },
+    {
+      "id": 99,
+      "slug": "ac-quy-cmf-din65-lbnfl",
+      "name": "CMF DIN65-LBN(FL)",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN65-LBN(FL).jpg"
+    },
+    {
+      "id": 100,
+      "slug": "ac-quy-cmf-din75",
+      "name": "CMF DIN75",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN75.jpg"
+    },
+    {
+      "id": 101,
+      "slug": "ac-quy-cmf-din80",
+      "name": "CMF DIN80",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN80.png"
+    },
+    {
+      "id": 102,
+      "slug": "ac-quy-cmf-din80-lbn",
+      "name": "CMF DIN80-LBN",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN80-LBN.webp"
+    },
+    {
+      "id": 103,
+      "slug": "ac-quy-cmf-din88",
+      "name": "CMF DIN88",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN88.webp"
+    },
+    {
+      "id": 104,
+      "slug": "ac-quy-cmf-din90",
+      "name": "CMF DIN90",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN90.png"
+    },
+    {
+      "id": 105,
+      "slug": "ac-quy-cmf-din100",
+      "name": "CMF DIN100",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN100.png"
+    },
+    {
+      "id": 106,
+      "slug": "ac-quy-cmf-din110",
+      "name": "CMF DIN110",
+      "category": "din",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/CMF DIN110.png"
+    },
+    {
+      "id": 107,
+      "slug": "ac-quy-gs-din45l-lbn-mf",
+      "name": "GS DIN45L-LBN-MF",
+      "category": "din",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS DIN45L-LBN-MF.jpg"
+    },
+    {
+      "id": 108,
+      "slug": "ac-quy-gs-din45l-mf",
+      "name": "GS DIN45L-MF",
+      "category": "din",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS DIN45L-MF.jpg"
+    },
+    {
+      "id": 109,
+      "slug": "ac-quy-gs-din60l-mf",
+      "name": "GS DIN60L-MF",
+      "category": "din",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS DIN60L-MF.png"
+    },
+    {
+      "id": 110,
+      "slug": "ac-quy-gs-din60r-mf",
+      "name": "GS DIN60R-MF",
+      "category": "din",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS DIN60R-MF.png"
+    },
+    {
+      "id": 111,
+      "slug": "ac-quy-gs-din60l-lbn-mf",
+      "name": "GS DIN60L-LBN-MF",
+      "category": "din",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS DIN60L-LBN-MF.png"
+    },
+    {
+      "id": 112,
+      "slug": "ac-quy-gs-din70l-lbn-mf",
+      "name": "GS DIN70L-LBN-MF",
+      "category": "din",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS DIN70L-LBN-MF.png"
+    },
+    {
+      "id": 113,
+      "slug": "ac-quy-gs-ln4-din80l-mf",
+      "name": "GS LN4 (DIN80L)-MF",
+      "category": "din",
+      "brand": "GS",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/GS LN4 (DIN80L)-MF.jpg"
+    },
+    {
+      "id": 114,
+      "slug": "ac-quy-n20",
+      "name": "N20",
+      "category": "nho",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N20.jpg"
+    },
+    {
+      "id": 115,
+      "slug": "ac-quy-n25",
+      "name": "N25",
+      "category": "nho",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N25.jpg"
+    },
+    {
+      "id": 116,
+      "slug": "ac-quy-n28",
+      "name": "N28",
+      "category": "nho",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N28.jpg"
+    },
+    {
+      "id": 117,
+      "slug": "ac-quy-n30",
+      "name": "N30",
+      "category": "nho",
+      "brand": "",
+      "voltage": "12V",
+      "capacity": "",
+      "image": "/img/acquy/N30.jpg"
+    }
+  ]
+}
